@@ -1,0 +1,26 @@
+.row-header{
+    padding:40px 0px 40 px 0px;
+    margin:0px;
+     font-size:60px;
+}
+.row-content{
+    padding:40px 0px 40 px 0px;
+    margin:0px;
+    font-size:20px;
+    border-bottom: 1px ridge;
+}
+.footer{
+    padding:20px 0px 20px 0px;
+    margin:0px;
+    background-color:palevioletred;
+    font-size:20px;
+}
+body{
+    background-color: peachpuff;
+    padding:50px 0px 0px 0px;
+   z-index:0; 
+}
+.jumbotron{
+    background-color: brown;
+   
+}
